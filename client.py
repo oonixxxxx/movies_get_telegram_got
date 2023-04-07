@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 # API token of the bot obtained from the BotFather
-API_TOKEN = '6099085169:AAHLDVW8Yx9aLHurzC8vhrHEkcUxYTHUBe0'
+API_TOKEN = 'your api token'
 
 # URL of the IMDb Top 100 movies list
 IMDB_URL = 'https://www.imdb.com/chart/top/'
